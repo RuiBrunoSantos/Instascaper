@@ -15,7 +15,7 @@ Use this data ethically to protect the identity of the participants.
 Download the project and simply install it in your Chrome browser as an extension. After unzipping the files into a folder, just select that folder to load it as an external script in the browser.
 
 <h1>Citation</h1>
-Santos, B. R. (2024). Reddit extract comment. An application for automated data extraction from Reddit. Source code and releases available at https://github.com/RuiBrunoSantos/Instascraper.
+Santos, B. R. (2024). Instagram extract comment. An application for automated data extraction from Instagram. Source code and releases available at https://github.com/RuiBrunoSantos/Instascraper.
 
 <h1>MIT License</h1>
 
