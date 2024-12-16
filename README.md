@@ -1,5 +1,6 @@
 
-![logo](https://github.com/user-attachments/assets/3a34d7a6-8b9f-4fd6-9cee-ee807bc4ca31)
+
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/user-attachments/assets/3a34d7a6-8b9f-4fd6-9cee-ee807bc4ca31)" width="128"/>
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
