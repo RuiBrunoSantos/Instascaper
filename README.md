@@ -1,6 +1,6 @@
 
 
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/user-attachments/assets/3a34d7a6-8b9f-4fd6-9cee-ee807bc4ca31)" width="128"/>
+![logo](https://github.com/user-attachments/assets/f7bdb791-e5dd-49e1-9b57-ef3f7a1114e4)
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
