@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/JKBwRtB/logo.png" </img>
+
+![logo](https://github.com/user-attachments/assets/3a34d7a6-8b9f-4fd6-9cee-ee807bc4ca31)
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
