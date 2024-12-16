@@ -1,5 +1,4 @@
-
-<img src="[[https://ibb.co/Btz5V3z](https://ibb.co/Btz5V3z)](https://i.ibb.co/JKBwRtB/logo.png)" alt="Python">
+<img src="https://i.ibb.co/JKBwRtB/logo.png" </img>
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
