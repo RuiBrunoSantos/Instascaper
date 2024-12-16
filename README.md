@@ -8,7 +8,7 @@
 instascrape is a lightweight javascript and html package that provides an expressive and flexible API for scraping Instagram data. It is geared towards being a high-level building block on the data scientist's toolchain and can be seamlessly integrated and extended with industry standard tools for web scraping, data science, and analysis.
 
 <h1>What you will get?</h1>
-The InstaScrape script scans the comments of a specific post and outputs the following data: Username, Comment, Publish Date, Count Likes for each comment, Profile URL of the participant, and Avatar of the participant.
+The InstaScrape script scans the comments of a specific post and outputs the following data: <b>Username, Comment, Publish Date, Count Likes for each comment, Profile URL of the participant, and Avatar of the participant</b>.
 Use this data ethically to protect the identity of the participants.
 
 <h1>How it works? </h1>
