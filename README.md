@@ -1,6 +1,5 @@
 
-
-![logo](https://github.com/user-attachments/assets/f7bdb791-e5dd-49e1-9b57-ef3f7a1114e4)
+![TopBanner](https://github.com/user-attachments/assets/4ff5af16-8622-470a-8a3a-357be6591096)
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
