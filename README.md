@@ -5,14 +5,13 @@
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
 <h1>What is it?</h1>
-instascrape is a lightweight javascript and html package that provides an expressive and flexible API for scraping Instagram data. It is geared towards being a high-level building block on the data scientist's toolchain and can be seamlessly integrated and extended with industry standard tools for web scraping, data science, and analysis.
+InstaScrape is a lightweight JavaScript-based script designed to extract Instagram data efficiently. Developed as a practical tool for data collection, it allows users to gather structured information that can be further processed using standard tools for web scraping, data analysis, and data science workflows.
 
 <h1>What you will get?</h1>
-The InstaScrape script scans the comments of a specific post and outputs the following data: <b>Username, Comment, Publish Date, Count Likes for each comment, Profile URL of the participant, and Avatar of the participant</b>.
-Use this data ethically to protect the identity of the participants.
+The InstaScrape script scans the comments of a specific Instagram post and outputs the following structured data: Username, Comment, Publish Date, Number of Likes for each comment, Profile URL of the participant, and Avatar URL of the participant. Users are strongly advised to handle this data ethically and responsibly, ensuring the privacy and anonymity of the participants.
 
 <h1>How it works? </h1>
-Download the project and simply install it in your Chrome browser as an extension. After unzipping the files into a folder, just select that folder to load it as an external script in the browser.
+To deploy the project, download the files and install them as a Chrome browser extension. After extracting the contents into a folder, load the folder as an external script using the browser's developer extension settings.
 
 <h1>Citation</h1>
 Rui Bruno Santos. (2024). RuiBrunoSantos/Instascraper: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505930 <br>
