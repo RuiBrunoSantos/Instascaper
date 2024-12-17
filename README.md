@@ -1,5 +1,5 @@
 
-![TopBanner](https://github.com/user-attachments/assets/4ff5af16-8622-470a-8a3a-357be6591096)
+![TopBanner (1)](https://github.com/user-attachments/assets/a3bcc707-91a4-4ab4-b5a9-ab959756615e)
 
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
