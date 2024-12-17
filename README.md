@@ -16,6 +16,7 @@ Download the project and simply install it in your Chrome browser as an extensio
 
 <h1>Citation</h1>
 Santos, B. R. (2024). Instagram extract comment. An application for automated data extraction from Instagram. Source code and releases available at https://github.com/RuiBrunoSantos/Instascraper.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14505930.svg)](https://doi.org/10.5281/zenodo.14505930)
 
 <h1>MIT License</h1>
 
