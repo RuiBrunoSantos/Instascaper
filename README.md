@@ -4,13 +4,13 @@
 <h1>instascrape: powerful Instagram data scraping toolkit</h1>
 
 <h1>What is it?</h1>
-InstaScrape is a lightweight JavaScript-based script designed to extract Instagram data efficiently. Developed as a practical tool for data collection, it allows users to gather structured information that can be further processed using standard tools for web scraping, data analysis, and data science workflows.
+InstaScrape is a lightweight JavaScript tool to scrape data from Instagram. This offers a practical way to gather structured information that can be made to work with regular web scraping, data analysis, and data science tools.
 
 <h1>What you will get?</h1>
-The InstaScrape script scans the comments of a specific Instagram post and outputs the following structured data: Username, Comment, Publish Date, Number of Likes for each comment, Profile URL of the participant, and Avatar URL of the participant. Users are strongly advised to handle this data ethically and responsibly, ensuring the privacy and anonymity of the participants.
+The application scans the comments of a specific Instagram post and generates a structured output that includes the username, comment, publish date, number of likes per comment, profile URL of the participant, and avatar URL. While this data is free to use, users are strongly encouraged to handle it ethically and responsibly, protecting the privacy and anonymity of participants.
 
 <h1>How it works? </h1>
-To deploy the project, download the files and install them as a Chrome browser extension. After extracting the contents into a folder, load the folder as an external script using the browser's developer extension settings.
+To use the project, just download the files, and next load the folder as an external script in the browser developer extension control settings.
 
 <h1>Citation</h1>
 Rui Bruno Santos. (2024). RuiBrunoSantos/Instascraper: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505930 <br>
