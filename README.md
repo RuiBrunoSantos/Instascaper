@@ -13,8 +13,7 @@ The application scans the comments of a specific Instagram post and generates a 
 To use the project, just download the files, and next load the folder as an external script in the browser developer extension control settings.
 
 <h1>Citation</h1>
-Rui Bruno Santos. (2024). RuiBrunoSantos/Instascraper: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505930 <br>
-<a href="https://doi.org/10.5281/zenodo.14505930"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14505930.svg" alt="DOI"></a>
+Rui Bruno Santos. (2025). RuiBrunoSantos/Instascraper: Version 2.0 (2.0). Zenodo. https://doi.org/10.5281/zenodo.14612029
 
 <h1>MIT License</h1>
 
